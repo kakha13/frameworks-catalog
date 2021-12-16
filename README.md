@@ -20,4 +20,11 @@ Please add your content and let send `PULL REQUEST`
 > Learn about vue.js https://vuejs.org/
 
 ### Place logo inside directory.
-Logo must be svg
+Logo must be svg format
+
+
+### Adding new Framework language
+Create new directory with lowercase letters
+for example `javascript` and place frameworks inside that directory
+> javascript 
+>> vue.md 
